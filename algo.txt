@@ -1,13 +1,5 @@
 Hola Mundo 
 Primero el archivo no esta en el repositorio remoto porque para hacerlo hay que hacer un push
 Segundo la modificacion no se ve de manera local si se la realiza de aca porque para hacerlo habría que realizar un git pull
-
-
-
-
-
-
-
-
-Modificando por segunda vez
-Y tercera
+El problema se genera por tener un cambio de manera local y otro de manera remota;
+Por lo tanto se hace un pull para que nos muestre cual fue el cambio de manera remota para corregir
